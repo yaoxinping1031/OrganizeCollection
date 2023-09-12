@@ -9,11 +9,11 @@
 其余算法可考虑：
 1）CNN  
 2）CNN-LSTM(复合算法)  
-3）LSTM  
+3）LSTM （有）
 4）TCN  
 5）GRU  
-6）ARIMA  
-7）ARIMA-LSTM(复合算法)  
+6）ARIMA （有） 
+7）ARIMA-LSTM(复合算法)  （有）
 8）TCN-LSTM(复合算法)  
 9）TCN-Attention(复合算法)  
 10）LSTM-Attention(复合算法)  
